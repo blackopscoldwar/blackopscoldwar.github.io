@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: blackopscoldwar.github.io
+Token: 36d6642e6a3f058ccca1cbe12dca51c529857c54f0f46cf677539daac13ee97e
