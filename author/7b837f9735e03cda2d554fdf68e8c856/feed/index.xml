@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MDS_Omega &#8211; Call of Duty: Black Ops Cold War</title>
+	<atom:link href="https://blackopscoldwar.github.io/author/7b837f9735e03cda2d554fdf68e8c856/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blackopscoldwar.github.io/</link>
+	<description>Call of Duty: Black Ops Cold War is a first-person shooter video game developed by Treyarch and Raven Software and published by Activision. r/BlackOpsColdWar is a developer-recognized community focused on the title.</description>
+	<lastBuildDate>Tue, 05 Oct 2021 02:03:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Why did they make this weapon so painfully useless? It only kills people if you land a direct hit, but at that point why not just use a sniper or shotgun for a One-Shot kill?</title>
+		<link>https://blackopscoldwar.github.io/3346/</link>
+					<comments>https://blackopscoldwar.github.io/3346/#comments</comments>
+		
+		<dc:creator><![CDATA[MDS_Omega]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 02:03:48 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://blackopscoldwar.github.io/3346/</guid>
+
+					<description><![CDATA[Why did they make this weapon so painfully useless? It only kills people if you land a direct hit, but at that point why not just use a sniper or shotgun for a One-Shot kill?]]></description>
+										<content:encoded><![CDATA[<p>Why did they make this weapon so painfully useless? It only kills people if you land a direct hit, but at that point why not just use a sniper or shotgun for a One-Shot kill?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blackopscoldwar.github.io/3346/feed/</wfw:commentRss>
+			<slash:comments>38</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

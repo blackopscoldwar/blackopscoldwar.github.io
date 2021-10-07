@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shuubi83 &#8211; Call of Duty: Black Ops Cold War</title>
+	<atom:link href="https://blackopscoldwar.github.io/author/025a993e6fdd28b7074e12bf79160225/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blackopscoldwar.github.io/</link>
+	<description>Call of Duty: Black Ops Cold War is a first-person shooter video game developed by Treyarch and Raven Software and published by Activision. r/BlackOpsColdWar is a developer-recognized community focused on the title.</description>
+	<lastBuildDate>Tue, 05 Oct 2021 02:02:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Now now. Recon players receive too much hate in my opinion. We&#8217;re mostly the same after all.</title>
+		<link>https://blackopscoldwar.github.io/3320/</link>
+					<comments>https://blackopscoldwar.github.io/3320/#comments</comments>
+		
+		<dc:creator><![CDATA[shuubi83]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 02:02:58 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://blackopscoldwar.github.io/3320/</guid>
+
+					<description><![CDATA[Now now. Recon players receive too much hate in my opinion. We&#8217;re mostly the same after all.]]></description>
+										<content:encoded><![CDATA[<p>Now now. Recon players receive too much hate in my opinion. We&#8217;re mostly the same after all.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blackopscoldwar.github.io/3320/feed/</wfw:commentRss>
+			<slash:comments>29</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

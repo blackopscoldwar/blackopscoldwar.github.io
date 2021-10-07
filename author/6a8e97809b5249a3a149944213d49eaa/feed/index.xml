@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tj_the_blind_gamer &#8211; Call of Duty: Black Ops Cold War</title>
+	<atom:link href="https://blackopscoldwar.github.io/author/6a8e97809b5249a3a149944213d49eaa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blackopscoldwar.github.io/</link>
+	<description>Call of Duty: Black Ops Cold War is a first-person shooter video game developed by Treyarch and Raven Software and published by Activision. r/BlackOpsColdWar is a developer-recognized community focused on the title.</description>
+	<lastBuildDate>Tue, 05 Oct 2021 02:03:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>The sound design is so good even literally blind people can play</title>
+		<link>https://blackopscoldwar.github.io/3343/</link>
+					<comments>https://blackopscoldwar.github.io/3343/#comments</comments>
+		
+		<dc:creator><![CDATA[tj_the_blind_gamer]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 02:03:43 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://blackopscoldwar.github.io/3343/</guid>
+
+					<description><![CDATA[The sound design is so good even literally blind people can play]]></description>
+										<content:encoded><![CDATA[<p>The sound design is so good even literally blind people can play</p>
+<p><video      controls="controls"><source src="https://v.redd.it/8yru482nzir71/DASH_1080.mp4?source=fallback" type="video/mp4"></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blackopscoldwar.github.io/3343/feed/</wfw:commentRss>
+			<slash:comments>19</slash:comments>
+		
+		<enclosure url="https://v.redd.it/8yru482nzir71/DASH_1080.mp4?source=fallback" length="194751451" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
